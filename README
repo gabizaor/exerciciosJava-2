@@ -1,0 +1,54 @@
+# Exercícios Java 2
+
+Este projeto contém uma série de exercícios desenvolvidos em Java para praticar conceitos fundamentais da linguagem, com foco especial na **aprendizagem de Programação Orientada a Objetos (POO)**. Abaixo estão as imagens que representam os exercícios e suas respectivas implementações.
+
+## Exercícios
+
+### Exercício 1
+
+![Exercicio1](src/images/1.png)
+Este exercício aborda conceitos básicos de entrada e saída de dados, além de operações matemáticas simples.
+
+### Exercício 2
+
+![Exercicio2](src/images/2.png)
+Neste exercício, trabalhamos com estruturas condicionais para resolver problemas baseados em decisões.
+
+### Exercício 3
+
+![Exercicio3](src/images/3.1.png)
+![Exercicio3-continuacao](src/images/3.2.png)
+O terceiro exercício explora o uso de loops e iterações para realizar cálculos repetitivos ou processar listas de dados.
+
+### Exercício 4
+
+![Exercicio4](src/images/4.png)
+Por fim, o quarto exercício foca no uso de arrays e manipulação de coleções de dados.
+
+## Tecnologias Utilizadas
+
+- **Java**: Linguagem de programação principal utilizada no projeto.
+- **IDE**: Foi utilizada uma IDE como IntelliJ IDEA ou Eclipse para o desenvolvimento.
+- **Git**: Controle de versão para gerenciar o progresso do projeto.
+
+## Como Executar
+
+1. Certifique-se de ter o [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html) instalado.
+2. Clone este repositório:
+   ```bash
+   git clone <URL_DO_REPOSITORIO>
+   ```
+3. Importe o projeto em sua IDE de preferência.
+4. Compile e execute os exercícios individualmente.
+
+## Objetivo
+
+O objetivo deste projeto é reforçar o aprendizado de conceitos fundamentais de programação em Java, com ênfase em:
+
+- **Programação Orientada a Objetos (POO)**: Classes, objetos, herança, encapsulamento e polimorfismo.
+- Estruturas de controle.
+- Manipulação de dados.
+- Estruturas de repetição.
+- Arrays e coleções.
+
+Sinta-se à vontade para explorar, modificar e aprender com os exercícios!

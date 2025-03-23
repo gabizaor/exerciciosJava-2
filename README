@@ -6,23 +6,23 @@ Este projeto contém uma série de exercícios desenvolvidos em Java para pratic
 
 ### Exercício 1
 
-![Exercicio1](src/images/1.png)
+![Exercicio1](images/1.png)
 Este exercício aborda conceitos básicos de entrada e saída de dados, além de operações matemáticas simples.
 
 ### Exercício 2
 
-![Exercicio2](src/images/2.png)
+![Exercicio2](images/2.png)
 Neste exercício, trabalhamos com estruturas condicionais para resolver problemas baseados em decisões.
 
 ### Exercício 3
 
-![Exercicio3](src/images/3.1.png)
+![Exercicio3](images/3.1.png)
 ![Exercicio3-continuacao](src/images/3.2.png)
 O terceiro exercício explora o uso de loops e iterações para realizar cálculos repetitivos ou processar listas de dados.
 
 ### Exercício 4
 
-![Exercicio4](src/images/4.png)
+![Exercicio4](images/4.png)
 Por fim, o quarto exercício foca no uso de arrays e manipulação de coleções de dados.
 
 ## Tecnologias Utilizadas
